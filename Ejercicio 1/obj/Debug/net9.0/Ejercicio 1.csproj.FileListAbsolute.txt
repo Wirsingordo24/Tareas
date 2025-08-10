@@ -1,0 +1,14 @@
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.exe
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.deps.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\bin\Debug\net9.0\Ejercicio 1.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\refint\Ejercicio 1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 1\obj\Debug\net9.0\ref\Ejercicio 1.dll

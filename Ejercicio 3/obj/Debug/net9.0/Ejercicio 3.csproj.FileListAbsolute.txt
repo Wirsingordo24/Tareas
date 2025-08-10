@@ -1,0 +1,14 @@
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\bin\Debug\net9.0\Ejercicio 3.exe
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\bin\Debug\net9.0\Ejercicio 3.deps.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\bin\Debug\net9.0\Ejercicio 3.runtimeconfig.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\bin\Debug\net9.0\Ejercicio 3.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\bin\Debug\net9.0\Ejercicio 3.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\refint\Ejercicio 3.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\Ejercicio 3\obj\Debug\net9.0\ref\Ejercicio 3.dll
