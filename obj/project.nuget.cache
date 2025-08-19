@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "kazv0gxN58c=",
   "success": true,
   "projectFilePath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\ejercicio4\\Ejercicio4.csproj",
+=======
+  "dgSpecHash": "VUFFD1IyVfE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\ejercicio 2.1\\Ejercicio2_1\\Ejercicio2_1.csproj",
+>>>>>>> 6e4f73ba90d290162899c00e309bf95c3bf81325
   "expectedPackageFiles": [],
   "logs": []
 }

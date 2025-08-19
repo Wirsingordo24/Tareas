@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio4\\Ejercicio4.csproj",
       "projectName": "Ejercicio4",
       "projectPath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio4\\Ejercicio4.csproj",
       "packagesPath": "C:\\Users\\Universidad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio4\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio 2.1\\Ejercicio2_1\\Ejercicio2_1.csproj",
+      "projectName": "Ejercicio2_1",
+      "projectPath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio 2.1\\Ejercicio2_1\\Ejercicio2_1.csproj",
+      "packagesPath": "C:\\Users\\Universidad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Universidad\\Documents\\UNiversidad\\Programación II Modelos de Programación\\Ejercicio 2.1\\Ejercicio2_1\\obj\\",
+>>>>>>> 6e4f73ba90d290162899c00e309bf95c3bf81325
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
