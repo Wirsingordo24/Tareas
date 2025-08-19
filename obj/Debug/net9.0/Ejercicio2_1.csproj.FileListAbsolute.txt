@@ -1,0 +1,15 @@
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\bin\Debug\net9.0\Ejercicio2_1.exe
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\bin\Debug\net9.0\Ejercicio2_1.deps.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\bin\Debug\net9.0\Ejercicio2_1.runtimeconfig.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\bin\Debug\net9.0\Ejercicio2_1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\bin\Debug\net9.0\Ejercicio2_1.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.AssemblyInfoInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.AssemblyInfo.cs
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.sourcelink.json
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\refint\Ejercicio2_1.dll
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.pdb
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\Ejercicio2_1.genruntimeconfig.cache
+C:\Users\Universidad\Documents\UNiversidad\Programación II Modelos de Programación\ejercicio 2.1\Ejercicio2_1\obj\Debug\net9.0\ref\Ejercicio2_1.dll
